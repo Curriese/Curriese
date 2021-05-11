@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Curriese
+- 👋 Hi, I’m Spenser Currier
 - 👀 I’m interested in Math, Science, Coding, Video Games, and Puzzles.
-- 🌱 I’m currently learning React ofr Java Script
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React for Java Script
 - 📫 How to reach me spensercurrier@hotmail.com
 
 <!---
